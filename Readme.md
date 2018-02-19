@@ -31,4 +31,4 @@ The ->getBarcode() routine accepts the following:
 - $widthFactor Width is based on the length of the data, with this factor you can make the barcode bars wider than default
 - $totalHeight The total height of the barcode
 - $color Hex code of the foreground color
-- $showCode Display barcode content as tex
+- $showCode Display barcode content as text
